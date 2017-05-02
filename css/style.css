@@ -45,6 +45,12 @@
   height: 112px;
   margin-left: 16px;
 }
+#cardcust-horizontal-valign-large {
+  padding-top: 24px;
+  padding-bottom: 24px;
+  height: 180px;
+  margin-left: 16px;
+}
 
 #cardcust-horizontal-content {
   padding-top: -5px;
@@ -58,6 +64,14 @@ div.cardeverntheader {
     border: 1px solid black;
     opacity: 0.6;
     filter: alpha(opacity=60); /* For IE8 and earlier */
+}
+#texastitlefont
+{
+  font-size: 20px;
+}
+#texastextfont
+{
+  font-size: 16px;
 }
 
 
